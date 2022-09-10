@@ -3,7 +3,8 @@
   
 ![image](https://user-images.githubusercontent.com/99718534/189474963-5794c162-0510-461c-b98d-c7217c27707b.png)
 
-:page_facing_up: Materials from : https://www.tensorflow.org/tutorials/images/classification
+:page_facing_up: Materials from : https://www.tensorflow.org/tutorials/images/classification </br>
+:page_facing_up: My Coding : https://colab.research.google.com/drive/1nfj8i8gVku7RcssT5d8cYSC1E2iLXmIv?usp=sharing
 ## :triangular_flag_on_post: Outline
 * **Preprocess Data**
 * **Baseline Model with CNN (Convolutional Neural Network)**
